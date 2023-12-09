@@ -1,0 +1,9 @@
+[submodule "extern/cuda-rtsp-server"]
+	path = extern/cuda-rtsp-server
+	url = https://github.com/johnpatek/cuda-rtsp-server
+[submodule "extern/sigfn"]
+	path = extern/sigfn
+	url = https://github.com/johnpatek/sigfn
+[submodule "extern/eglext-loader"]
+	path = extern/eglext-loader
+	url = https://github.com/johnpatek/eglext-loader
